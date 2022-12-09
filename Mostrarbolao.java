@@ -51,18 +51,22 @@ public class Mostrarbolao  {
 		ArrayList<String> aux = new ArrayList<String>();
 		aux.add(a.getQuartastimes().get(0));
 		aux.add(a.getQuartasplacar().get(0));
+		aux.add("x");
 		aux.add(a.getQuartastimes().get(1));
 		aux.add(a.getQuartasplacar().get(1));
 		aux.add(a.getQuartastimes().get(2));
 		aux.add(a.getQuartasplacar().get(2));
+		aux.add("x");
 		aux.add(a.getQuartastimes().get(3));
 		aux.add(a.getQuartasplacar().get(3));
 		aux.add(a.getQuartastimes().get(4));
 		aux.add(a.getQuartasplacar().get(4));
+		aux.add("x");
 		aux.add(a.getQuartastimes().get(5));
 		aux.add(a.getQuartasplacar().get(5));
 		aux.add(a.getQuartastimes().get(6));
 		aux.add(a.getQuartasplacar().get(6));
+		aux.add("x");
 		aux.add(a.getQuartastimes().get(7));
 		aux.add(a.getQuartasplacar().get(7));
 		
@@ -72,10 +76,12 @@ public class Mostrarbolao  {
 		ArrayList<String> aux = new ArrayList<String>();
 		aux.add(a.getSemitimes().get(0));
 		aux.add(a.getSemiplacar().get(0));
+		aux.add("x");
 		aux.add(a.getSemitimes().get(1));
 		aux.add(a.getSemiplacar().get(1));
 		aux.add(a.getSemitimes().get(2));
 		aux.add(a.getSemiplacar().get(2));
+		aux.add("x");
 		aux.add(a.getSemitimes().get(3));
 		aux.add(a.getSemiplacar().get(3));
 		
@@ -85,6 +91,7 @@ public class Mostrarbolao  {
 		ArrayList<String> aux = new ArrayList<String>();
 		aux.add(a.getFinaltimes().get(0));
 		aux.add(a.getFinalplacar().get(0));
+		aux.add("x");
 		aux.add(a.getFinaltimes().get(1));
 		aux.add(a.getFinalplacar().get(1));
 		
